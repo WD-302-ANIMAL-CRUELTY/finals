@@ -7,7 +7,4 @@ Frameworks:
 -Angular Material and Animations
 
 Components:
--Issue/Information component
--Cruelty Free PH Brands component
--Indicators/Tips to detect cruelty free cosmetic component
--Actions component
+-Issue/Information component, Cruelty Free PH Brands component, Indicators/Tips to detect cruelty free cosmetic component, Actions component
