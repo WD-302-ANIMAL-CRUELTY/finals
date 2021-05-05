@@ -1,0 +1,38 @@
+.container {
+    height: 40vh;
+    text-align: center;
+    color: #4a4a48;
+}
+
+.row-1 .col-1 {
+    text-align: center;
+    padding: 30px 80px 0px 80px;
+}
+.row-1 .col-1 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+}
+.row-2 .col-2 {
+    text-align: left;
+    padding: 30px 80px 0px 80px;
+}
+.row-2 .col-2 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 300px;
+    padding-bottom: 20px;
+}
+.row-3 .col-3 {
+    text-align: left;
+    padding: 0px 80px 20px 80px;
+}
+.row-3 .col-3 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 280px;
+}

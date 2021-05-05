@@ -1,0 +1,12 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.heading img{
+    display: block;
+    width: 100%;
+    min-height: auto;
+}
+.first {
+  margin-bottom: 25em;
+}
