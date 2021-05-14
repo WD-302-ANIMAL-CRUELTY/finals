@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+main {
+    max-width: 1200px;
+    max-height: 700px;
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    display:block;
+    text-align: center;
+}
+.grid { 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  align-items: start;
+  font-family: 'Raleway', sans-serif;
+  
+  border-radius: 15px;
+  
+  }
+.grid > article {
+  
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+  border-radius: 15px;
+  max-width: 450px;
+    max-height: 700px;
+}
+.grid > article img {
+  max-width: 100%;
+
+}
+.text {
+  padding: 0 20px 20px;
+}
+
+p{ 
+    font-size: 30px;
+  text-align: center;
+  padding-top: 5px;
+  color: #ff4081;
+  font-family: 'Raleway', sans-serif;
+}
+
+  h3{
+    font-family: 'Raleway', sans-serif;
+    color: #ff4081;
+  }
+
+  h4 {
+    font-family: 'Raleway', sans-serif;
+    color: #646463;
+  }
