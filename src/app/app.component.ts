@@ -12,6 +12,8 @@ import { bounceAnimation,
   bounceInUpAnimation
 } from 'angular-animations';
 
+import { MatCarousel, MatCarouselComponent } from '@ngmodule/material-carousel';
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
