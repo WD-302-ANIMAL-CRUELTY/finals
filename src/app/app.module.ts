@@ -31,12 +31,10 @@ import {MatTableModule} from '@angular/material/table';
 import {MatTabsModule} from '@angular/material/tabs';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import {MatTooltipModule} from '@angular/material/tooltip';
-import { MatCarouselModule } from '@ngmodule/material-carousel';
 import { IssueComponent } from './issue/issue.component';
 import { BrandsComponent } from './brands/brands.component';
 import { PetitionsComponent } from './petitions/petitions.component';
 import { IndicatorsComponent } from './indicators/indicators.component';
-import { FlexLayoutModule } from '@angular/flex-layout';
 
 @NgModule({
   declarations: [
@@ -77,9 +75,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
     MatTableModule,
     MatTabsModule,
     MatToolbarModule,
-    MatTooltipModule,
-    MatCarouselModule.forRoot(),
-    FlexLayoutModule
+    MatTooltipModule
 
   ],
   providers: [],
