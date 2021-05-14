@@ -2,31 +2,34 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 
 p {
-  font-size: 30px;
+  font-size: 40px;
   text-align: center;
   padding-top: 5px;
   color: #ff4081;
   font-family: 'Roboto Slab', serif;
 }
+.main {
+  font-family: 'Roboto Slab', serif;
+  font-size: 15px;
+  padding: 0px 90px 0px 90px;
+  color: #646463;
+  text-align: center;
+}
 
 h1{
   font-size: 30px;
   color: #ff4081;
-}
-.main {
-  font-family: 'Roboto Slab', serif;
   text-align: center;
-  color: #646463;
-  padding: 0px 80px 0px 80px;
-  color: #646463;
 }
+
 h3 {
-  font-size: 20px;
   color: #646463;
 }
 
 .example-card {
-    max-width: 600px;
+    max-width: 300px;
+    max-height: 700px;
+    margin-top: 1em;
     margin-left: auto;
     margin-right: auto;
     width: auto;
@@ -34,7 +37,21 @@ h3 {
     text-align: center;
     box-shadow: none;
 }
+.mat-card:not([class*=mat-elevation-z]) {
+  box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+  border-radius: 15px;
+}
   
-  .example-header-image {
+.example-header-image {
     background-size: cover;
+}
+
+.grid1 {
+padding: 0px 0px 5em 0px;
+}
+.grid2 {
+  padding: 0px 0px 5em 0px;
   }
+.grid3 {
+    padding: 0px 0px 5em 0px;
+}
