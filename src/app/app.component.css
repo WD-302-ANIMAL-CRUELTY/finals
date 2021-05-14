@@ -5,14 +5,13 @@
 .heading img{
     display: block;
     width: 100%;
-    height: 500px;;
+    height: 600px;;
 }
 .first {
   margin-bottom: 25em;
 }
 
-
-button {
+.action {
   display: block;
   margin-left: auto;
   margin-right: auto;

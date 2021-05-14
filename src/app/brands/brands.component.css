@@ -6,23 +6,28 @@ p {
   text-align: center;
   padding-top: 5px;
   color: #ff4081;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Raleway', sans-serif;
+
 }
 .main {
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Raleway', sans-serif;
+
   font-size: 15px;
   padding: 0px 90px 0px 90px;
   color: #646463;
   text-align: center;
+  line-height: 25px;
 }
 
 h1{
+  font-family: 'Raleway', sans-serif;
   font-size: 30px;
   color: #ff4081;
   text-align: center;
 }
 
 h3 {
+  font-family: 'Raleway', sans-serif;
   color: #646463;
 }
 
@@ -47,11 +52,11 @@ h3 {
 }
 
 .grid1 {
-padding: 0px 0px 5em 0px;
+padding: 0px 0px 3em 0px;
 }
 .grid2 {
-  padding: 0px 0px 5em 0px;
+  padding: 0px 0px 3em 0px;
   }
 .grid3 {
-    padding: 0px 0px 5em 0px;
+    padding: 0px 0px 3em 0px;
 }

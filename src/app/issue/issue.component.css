@@ -9,19 +9,19 @@
 }
 
 h1, h2, h3, h4, h5, p {
-    font-family: 'Roboto Slab', serif;
-
+    font-family: 'Raleway', sans-serif;
 }
+
 a {
     text-align: center;
     display: inline-block;
     padding-right: 1em;
 }
 
-
 .row-1 .col-1 {
-    text-align: center;
+    text-align: left;
     padding: 30px 100px 0px 100px;
+    line-height: 25px;
 }
 .row-1 .col-1 img {
     display: block;
@@ -32,6 +32,7 @@ a {
 .row-2 .col-2 {
     text-align: left;
     padding: 30px 80px 0px 80px;
+    line-height: 25px;
 }
 .row-2 .col-2 img {
     display: block;
@@ -43,7 +44,8 @@ a {
 }
 .row-3 .col-3 {
     text-align: left;
-    padding: 0px 80px 20px 80px;
+    padding: 20px 80px 20px 80px;
+    line-height: 33px;
 }
 .row-3 .col-3 img {
     display: block;
