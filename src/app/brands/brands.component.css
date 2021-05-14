@@ -5,14 +5,13 @@ p {
   font-size: 30px;
   text-align: center;
   padding-top: 5px;
-  
+  color: #ff4081;
+  font-family: 'Roboto Slab', serif;
 }
-
-
 
 h1{
   font-size: 30px;
-  color: #646463;
+  color: #ff4081;
 }
 h2 {
   font-family: 'Roboto Slab', serif;

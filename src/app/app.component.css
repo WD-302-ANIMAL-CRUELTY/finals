@@ -8,5 +8,14 @@
     height: 500px;;
 }
 .first {
-  margin-bottom: 28em;
+  margin-bottom: 25em;
 }
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button, a {
+  text-decoration: none;
+ }
